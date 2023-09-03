@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PatrickDch
-- 👀 I am involved with ShaPat Studio, TeX - Traffic eXchange
+- 👀 I am a Solution Architect in ICT/IT/Cloud
+- ✈️ Currently involved with ✈ZRH
 - 🌱 I am drinking lot's of tee. 
 - 📫 Reach me with 
   - Matrix https://matrix.to/#/@pdombrow:matrix.org
