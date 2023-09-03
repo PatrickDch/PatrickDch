@@ -5,6 +5,7 @@
 - 📫 Reach me with 
   - Matrix https://matrix.to/#/@pdombrow:matrix.org
   - Keybase https://keybase.io/patrickdch
+  - Signal https://signal.group/#CjQKIO_X0PVJEPrKtsSd-ogyCmTKc9kiAryIK_dwu0BAXghVEhCGnIg2nKF3K4xmwptOdAtt
 
 <!---
 Ich gönne mir! 💐
